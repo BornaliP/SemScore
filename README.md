@@ -1,4 +1,4 @@
-
+[Interspeech 2025] arXiv:2506.16528 Python 3.9+
 
 
 # Aligning ASR Evaluation with Human and LLM Judgments
